@@ -6,7 +6,7 @@ The file run.sh specifies the input file tweet_input/eecummings.txt. This file c
 
 run.sh calls src/main.py which creates out_input/eecummings.txt.
 
-#Dependcies
+#Dependencies
 python modules:
 heapq     -- a heap module used for calculating the median.
 fileinput -- used to handle multiple input files.
